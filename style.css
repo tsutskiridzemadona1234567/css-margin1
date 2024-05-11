@@ -1,0 +1,11 @@
+.box{
+    width: 320px;
+    height: 138px;
+    border: 1px solid #B4B4B4;
+    background-color: #FFFFFF;
+    margin-top: 73px;
+    margin-left: 109px;
+}
+p{
+    color: grey;
+}
