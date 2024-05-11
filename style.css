@@ -6,6 +6,12 @@
     margin-top: 73px;
     margin-left: 109px;
 }
+h5{
+    color: black;
+    margin-top: 1px;
+}
 p{
+    margin-top: 0px;
     color: grey;
+    line-height: 16.41px;
 }
